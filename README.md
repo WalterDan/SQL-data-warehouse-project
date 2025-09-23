@@ -97,3 +97,5 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 ## 🌟 About Me
 
+👀 I am your Data Analysis and Business Intelligence expert
+💞️ I’m here to help businesses and cross functional teams make decisions, backed by data.
